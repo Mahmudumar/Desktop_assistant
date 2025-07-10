@@ -18,7 +18,7 @@ The assistant is designed with clean separation between its core components: lis
 
 ## 📦 Folder Structure
 
-```
+```plaintext
 
 project\_root/
 ├── main.py         # Entry point
