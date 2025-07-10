@@ -1,0 +1,2 @@
+global running
+running = True
